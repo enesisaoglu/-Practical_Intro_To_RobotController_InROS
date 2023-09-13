@@ -1,0 +1,2 @@
+Tutorials-2020
+-DCATKIN_DEVEL_PREFIX=/home/enesisaoglu/robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/enesisaoglu/robot_ws/install -G Unix Makefiles
